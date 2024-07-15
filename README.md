@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JesielSouza
-- 👀 I’m interested in be a NodeJS Backend Dev
-- 🌱 I’m currently learning NodeJS and Its Technologies
-- 💞️ I’m looking to collaborate on with your company as a Junior Dev
+- 👀 I’m interested in be a Frontend Dev
+- 🌱 I’m currently learning HTML/CSS/Javascript and Technologies/Frameworks: React, React Native and Angular
+- 💞️ I’m looking to collaborate on with your company as a Trainee/Junior Dev
 - 📫 How to reach me LinkedIn:https://www.linkedin.com/mwlite/in/jesiel-souza-71b837155
 
 <!---
